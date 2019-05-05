@@ -7,7 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 
 
-### Dr. Kevin Hayes, DuPont Pioneer, IA
+### Dr. Kevin Hayes, DuPont Pioneer, IA, USA
 
 <img src="/img/kevinH.jpeg" alt="Dr. Kevin Hayes Photo" width="150px" style="float: left" /> 
 
